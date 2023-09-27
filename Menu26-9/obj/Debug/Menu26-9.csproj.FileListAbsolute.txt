@@ -1,0 +1,12 @@
+D:\ASP.NET MVC\Menu26-9\bin\Debug\Menu26-9.exe.config
+D:\ASP.NET MVC\Menu26-9\bin\Debug\Menu26-9.exe
+D:\ASP.NET MVC\Menu26-9\bin\Debug\Menu26-9.pdb
+D:\ASP.NET MVC\Menu26-9\obj\Debug\Menu26-9.csproj.AssemblyReference.cache
+D:\ASP.NET MVC\Menu26-9\obj\Debug\Menu26_9.Form1.resources
+D:\ASP.NET MVC\Menu26-9\obj\Debug\Menu26_9.Properties.Resources.resources
+D:\ASP.NET MVC\Menu26-9\obj\Debug\Menu26-9.csproj.GenerateResource.cache
+D:\ASP.NET MVC\Menu26-9\obj\Debug\Menu26-9.csproj.CoreCompileInputs.cache
+D:\ASP.NET MVC\Menu26-9\obj\Debug\Menu26-9.exe
+D:\ASP.NET MVC\Menu26-9\obj\Debug\Menu26-9.pdb
+D:\ASP.NET MVC\Menu26-9\obj\Debug\Menu26_9.HCN.resources
+D:\ASP.NET MVC\Menu26-9\obj\Debug\Menu26_9.PTB1.resources
