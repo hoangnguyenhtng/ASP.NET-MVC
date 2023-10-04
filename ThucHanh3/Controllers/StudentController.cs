@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Mvc.Rendering;
 using ThongTinSinhVien.Models;
 
-namespace ThongTinSinhVien.Controllers
+namespace ThucHanh3.Controllers
 {
 	[Route("Admin/Student")]
 	public class StudentController : Controller

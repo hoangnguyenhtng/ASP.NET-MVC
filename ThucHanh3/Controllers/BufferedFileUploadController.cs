@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using ThongTinSinhVien.Interfaces;
 
-namespace ThongTinSinhVien.Controllers
+namespace ThucHanh3.Controllers
 {
 	public class BufferedFileUploadController : Controller
 	{

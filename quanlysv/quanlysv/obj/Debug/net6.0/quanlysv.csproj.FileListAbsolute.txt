@@ -1,0 +1,526 @@
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\appsettings.json
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\quanlysv.staticwebassets.runtime.json
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\quanlysv.exe
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\quanlysv.deps.json
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\quanlysv.runtimeconfig.json
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\quanlysv.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\quanlysv.pdb
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\obj\Debug\net6.0\quanlysv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\obj\Debug\net6.0\quanlysv.AssemblyInfoInputs.cache
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\obj\Debug\net6.0\quanlysv.AssemblyInfo.cs
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\obj\Debug\net6.0\quanlysv.csproj.CoreCompileInputs.cache
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\obj\Debug\net6.0\quanlysv.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\obj\Debug\net6.0\quanlysv.RazorAssemblyInfo.cache
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\obj\Debug\net6.0\quanlysv.RazorAssemblyInfo.cs
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\obj\Debug\net6.0\staticwebassets\msbuild.quanlysv.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\obj\Debug\net6.0\staticwebassets\msbuild.build.quanlysv.props
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.quanlysv.props
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.quanlysv.props
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\obj\Debug\net6.0\scopedcss\bundle\quanlysv.styles.css
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\obj\Debug\net6.0\scopedcss\projectbundle\quanlysv.bundle.scp.css
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\obj\Debug\net6.0\quanlysv.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\obj\Debug\net6.0\refint\quanlysv.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\obj\Debug\net6.0\quanlysv.pdb
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\obj\Debug\net6.0\quanlysv.genruntimeconfig.cache
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\obj\Debug\net6.0\ref\quanlysv.dll
+C:\Users\luuho\Downloads\quanlysv\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\luuho\Downloads\quanlysv\bin\Debug\net6.0\appsettings.json
+C:\Users\luuho\Downloads\quanlysv\bin\Debug\net6.0\quanlysv.staticwebassets.runtime.json
+C:\Users\luuho\Downloads\quanlysv\bin\Debug\net6.0\quanlysv.exe
+C:\Users\luuho\Downloads\quanlysv\bin\Debug\net6.0\quanlysv.deps.json
+C:\Users\luuho\Downloads\quanlysv\bin\Debug\net6.0\quanlysv.runtimeconfig.json
+C:\Users\luuho\Downloads\quanlysv\bin\Debug\net6.0\quanlysv.dll
+C:\Users\luuho\Downloads\quanlysv\bin\Debug\net6.0\quanlysv.pdb
+C:\Users\luuho\Downloads\quanlysv\obj\Debug\net6.0\quanlysv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luuho\Downloads\quanlysv\obj\Debug\net6.0\quanlysv.AssemblyInfoInputs.cache
+C:\Users\luuho\Downloads\quanlysv\obj\Debug\net6.0\quanlysv.AssemblyInfo.cs
+C:\Users\luuho\Downloads\quanlysv\obj\Debug\net6.0\quanlysv.csproj.CoreCompileInputs.cache
+C:\Users\luuho\Downloads\quanlysv\obj\Debug\net6.0\quanlysv.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\luuho\Downloads\quanlysv\obj\Debug\net6.0\quanlysv.RazorAssemblyInfo.cache
+C:\Users\luuho\Downloads\quanlysv\obj\Debug\net6.0\quanlysv.RazorAssemblyInfo.cs
+C:\Users\luuho\Downloads\quanlysv\obj\Debug\net6.0\staticwebassets\msbuild.quanlysv.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\luuho\Downloads\quanlysv\obj\Debug\net6.0\staticwebassets\msbuild.build.quanlysv.props
+C:\Users\luuho\Downloads\quanlysv\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.quanlysv.props
+C:\Users\luuho\Downloads\quanlysv\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.quanlysv.props
+C:\Users\luuho\Downloads\quanlysv\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\luuho\Downloads\quanlysv\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\luuho\Downloads\quanlysv\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\luuho\Downloads\quanlysv\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\luuho\Downloads\quanlysv\obj\Debug\net6.0\scopedcss\bundle\quanlysv.styles.css
+C:\Users\luuho\Downloads\quanlysv\obj\Debug\net6.0\scopedcss\projectbundle\quanlysv.bundle.scp.css
+C:\Users\luuho\Downloads\quanlysv\obj\Debug\net6.0\quanlysv.dll
+C:\Users\luuho\Downloads\quanlysv\obj\Debug\net6.0\refint\quanlysv.dll
+C:\Users\luuho\Downloads\quanlysv\obj\Debug\net6.0\quanlysv.pdb
+C:\Users\luuho\Downloads\quanlysv\obj\Debug\net6.0\quanlysv.genruntimeconfig.cache
+C:\Users\luuho\Downloads\quanlysv\obj\Debug\net6.0\ref\quanlysv.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\Humanizer.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\MessagePack.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\obj\Debug\net6.0\quanlysv.csproj.AssemblyReference.cache
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\obj\Debug\net6.0\quanlysv.csproj.CopyComplete
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luuho\Documents\Nam 3\Laptrinhweb\quanlysv\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\appsettings.Development.json
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\appsettings.json
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\quanlysv.staticwebassets.runtime.json
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\quanlysv.exe
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\quanlysv.deps.json
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\quanlysv.runtimeconfig.json
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\quanlysv.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\quanlysv.pdb
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\Humanizer.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\MessagePack.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\Microsoft.Build.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\NuGet.Common.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\obj\Debug\net6.0\quanlysv.csproj.AssemblyReference.cache
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\obj\Debug\net6.0\quanlysv.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\obj\Debug\net6.0\quanlysv.AssemblyInfoInputs.cache
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\obj\Debug\net6.0\quanlysv.AssemblyInfo.cs
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\obj\Debug\net6.0\quanlysv.csproj.CoreCompileInputs.cache
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\obj\Debug\net6.0\quanlysv.MvcApplicationPartsAssemblyInfo.cache
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\obj\Debug\net6.0\quanlysv.RazorAssemblyInfo.cache
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\obj\Debug\net6.0\quanlysv.RazorAssemblyInfo.cs
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\obj\Debug\net6.0\staticwebassets\msbuild.quanlysv.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\obj\Debug\net6.0\staticwebassets\msbuild.build.quanlysv.props
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.quanlysv.props
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.quanlysv.props
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\obj\Debug\net6.0\staticwebassets.pack.json
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\obj\Debug\net6.0\staticwebassets.build.json
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\obj\Debug\net6.0\staticwebassets.development.json
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\obj\Debug\net6.0\scopedcss\bundle\quanlysv.styles.css
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\obj\Debug\net6.0\scopedcss\projectbundle\quanlysv.bundle.scp.css
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\obj\Debug\net6.0\quanlysv.csproj.CopyComplete
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\obj\Debug\net6.0\quanlysv.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\obj\Debug\net6.0\refint\quanlysv.dll
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\obj\Debug\net6.0\quanlysv.pdb
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\obj\Debug\net6.0\quanlysv.genruntimeconfig.cache
+D:\ASP.NET MVC LapTrinhWeb\quanlysv\quanlysv\obj\Debug\net6.0\ref\quanlysv.dll

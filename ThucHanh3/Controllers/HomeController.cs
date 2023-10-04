@@ -2,7 +2,7 @@
 using System.Diagnostics;
 using ThongTinSinhVien.Models;
 
-namespace ThongTinSinhVien.Controllers
+namespace ThucHanh3.Controllers
 {
     public class HomeController : Controller
     {
