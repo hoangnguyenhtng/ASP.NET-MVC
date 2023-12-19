@@ -1,0 +1,10 @@
+﻿@model IEnumerable<LoaiHang>
+<ul>
+	<li class="active"><a href="index.html">Hoang Trung Nguyen</a></li>
+	@foreach (var item in Model)
+	{
+		<li><a href="#" id="@item.MaLoai">@item.TenLoai</a></li>
+
+	}
+	<div class="clear"></div>
+</ul>

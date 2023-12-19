@@ -1,0 +1,102 @@
+﻿@{
+    TempData["Version"] = "22";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="shortcut icon" type="image/x-icon" href="~/assets/images/logo/logo.png">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>@ViewBag.Title | Admin</title>
+    <!-- Custom fonts for this template-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+    <!-- Custom styles for this template-->
+    <link href="~/assets/Client/css/iziToast.min.css" rel="stylesheet" />
+    <link href="~/assets/admin/css/sb-admin-2.css?@TempData["Version"]" rel="stylesheet">
+    @*<link href="~/Content/alertifyjs/alertify.min.css?@TempData["Version"]" rel="stylesheet" />
+    <link href="~/Content/alertifyjs/themes/default.min.css?@TempData["Version"]" rel="stylesheet" />*@
+
+    <style>
+        #accordionSidebar {
+            background-size: cover;
+            background-image: url(https://thumbs.gfycat.com/AbleTastyCirriped-size_restricted.gif);
+        }
+    </style>
+    @RenderSection("styles", false)
+</head>
+<body id="page-top">
+    <!-- Page Wrapper -->
+    <div id="wrapper">
+        @RenderPage("~/Areas/admin/Views/Shared/_Slidebar.cshtml")
+        <!-- Content Wrapper -->
+        <div id="content-wrapper" class="d-flex flex-column">
+            <!-- Main Content -->
+            <div id="content">
+                @RenderPage("~/Areas/admin/Views/Shared/_Topbar.cshtml")
+                <!-- Begin Page Content -->
+                <div class="container-fluid">
+                    <!-- Page Heading -->
+                    @RenderBody()
+                </div>
+                <!-- /.container-fluid -->
+            </div>
+            <!-- End of Main Content -->
+            <!-- Footer -->
+            <footer class="sticky-footer bg-white">
+                <div class="container my-auto">
+                    <div class="copyright text-center my-auto">
+                        <span>Copyright &copy; @DateTime.Now.Year</span>
+                    </div>
+                </div>
+            </footer>
+            <!-- End of Footer -->
+        </div>
+        <!-- End of Content Wrapper -->
+    </div>
+    <!-- End of Page Wrapper -->
+ 
+    <!-- Scroll to Top Button-->
+    <a class="scroll-to-top rounded" href="#page-top">
+        <i class="fas fa-angle-up"></i>
+    </a>
+    <!-- Logout Modal-->
+    <div class="modal fade" id="logoutModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">Thông báo</h5>
+                    <button class="close" type="button" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">×</span>
+                    </button>
+                </div>
+                <div class="modal-body">Bạn chắc chắn muốn đăng xuất.Hãy click vào <strong>đăng xuất</strong> để thoát.</div>
+                <div class="modal-footer">
+                    <button class="btn btn-secondary" type="button" data-dismiss="modal">Huỷ</button>
+                    <a class="btn btn-primary" style="cursor:pointer;" id="btnlogout">Đăng xuất</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Bootstrap core JavaScript-->
+    <script src="~/assets/admin/vendor/jquery/jquery.min.js?@TempData["Version"]"></script>
+    <script src="~/assets/admin/vendor/bootstrap/js/bootstrap.bundle.min.js?@TempData["Version"]"></script>
+    <!-- Core plugin JavaScript-->
+    <script src="~/assets/admin/vendor/jquery-easing/jquery.easing.min.js?@TempData["Version"]"></script>
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+    <!-- Custom scripts for all pages-->
+    <script src="~/assets/admin/js/sb-admin-2.min.js?@TempData["Version"]"></script>
+    <!-- Page level plugins -->
+    <script src="~/assets/admin/vendor/chart.js/Chart.min.js?@TempData["Version"]"></script>
+    <script src="~/assets/client/js/iziToast.min.js"></script>
+    <!-- Page level custom scripts -->
+
+    <script src="~/assets/admin/js/ckeditor/ckeditor.js?@TempData["Version"]"></script>
+    <script src="~/assets/admin/js/code/main.js?@TempData["Version"]"></script>
+
+    @RenderSection("scripts", false)
+</body>
+</html>

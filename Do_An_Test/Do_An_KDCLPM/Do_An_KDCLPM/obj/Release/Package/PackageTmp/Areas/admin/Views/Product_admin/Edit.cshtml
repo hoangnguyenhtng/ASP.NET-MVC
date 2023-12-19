@@ -1,0 +1,169 @@
+﻿@using Do_An_KDCLPM.Models
+@model products
+@{
+    ViewBag.Title = "Sửa sản phẩm " + Model.name;
+    Layout = "~/Areas/admin/Views/Shared/_Layout.cshtml";
+    var db = new QL_LINHKIENDIENTU_WEBEntities();
+}
+@section scripts{
+    <script>
+        // Disable form submissions if there are invalid fields
+        (function () {
+            'use strict';
+            window.addEventListener('load', function () {
+                // Get the forms we want to add validation styles to
+                var forms = document.getElementsByClassName('needs-validation');
+                // Loop over them and prevent submission
+                var validation = Array.prototype.filter.call(forms, function (form) {
+                    form.addEventListener('submit', function (event) {
+                        if (form.checkValidity() === false) {
+                            event.preventDefault();
+                            event.stopPropagation();
+                        }
+                        form.classList.add('was-validated');
+                    }, false);
+                });
+            }, false);
+
+            var editor = CKEDITOR.replace('txtDescription', {
+                customConfig: '~/assets/admin/js/ckeditor/config.js'
+            })                     
+            $(".custom-file-input").on("change", function () {
+                let fileName = $(this).val().split("\\").pop();
+                console.log(fileName);
+                $(this).siblings(".custom-file-label").addClass("selected").html(fileName);
+            });
+            $('#input_newproduct').change(function () {
+                if ($(this).is(":checked")) {
+                    $('#input_mess-status').text('Mới');
+                    $('input[name="status"]').val('True');
+                }
+
+
+                else {
+                    $('#input_mess-status').text('Cũ');
+                    $('input[name="status"]').val('False');
+                }
+
+            });
+        })();
+    </script>
+    @if (TempData["status"] != null)
+    {
+        <script>
+            $(function () {
+                iziToast.warning({
+                    timeout: 1500,
+                    title: 'Lỗi',
+                    message: `@TempData["status"]`,
+                    position: 'topRight'
+                });
+            })
+        </script>
+    }
+}
+@section styles{
+    <style>
+        .custom-file-label {
+            left: 0.75rem;
+            right: 0.75rem;
+        }
+
+        .input-ckb {
+            height: 20px;
+            width: 20px;
+            cursor: pointer;
+        }
+    </style>
+}
+<div class="card shadow mb-4">
+    <div class="card-header py-3">
+        <h6 class="m-0 font-weight-bold text-primary">Sửa sản phẩm <strong>@Model.name</strong></h6>
+    </div>
+    <div class="card-body">
+        @using (Html.BeginForm("Edit", "Product_admin", FormMethod.Post, new { @enctype = "multipart/form-data", @class = "needs-validation", @novalidate = "true" }))
+        {
+            @Html.AntiForgeryToken()
+            @Html.HiddenFor(model => model.id)
+            <div class="form-horizontal">
+                <div class="form-group">
+                    <label class="control-label col-md-12">Tên sản phẩm</label>
+                    <div class="col-md-12">
+                        <input name="name" placeholder="Nhập vào tên sản phẩm" value="@Model.name" required class="form-control" />
+                        <div class="valid-feedback">Valid</div>
+                        <div class="invalid-feedback">Nhập vào tên sản phẩm</div>
+                    </div>
+                </div>                            
+                <div class="form-group">
+                    <label class="control-label col-md-12">Giá</label>
+                    <div class="col-md-12">
+                        <input type="number" value="@Model.price" placeholder="Nhập vào giá bán" required class="form-control" name="price" />
+                    </div>
+                    <div class="valid-feedback">Valid</div>
+                    <div class="invalid-feedback">Nhập giá bán</div>
+                </div>
+                <div class="form-group">
+                    <label class="control-label col-md-12">Giá khuyến mãi</label>
+                    <div class="col-md-12">
+                        <input type="number" value="@Model.promationprice" required placeholder="Nhập vào giá khuyến mãi (nếu có)" class="form-control" name="promationprice" />
+                    </div>
+                    <div class="valid-feedback">Valid</div>
+                    <div class="invalid-feedback">Nhập giá khuyến mãi (nếu có)</div>
+                </div>
+                <div class="form-group">
+                    <label class="control-label col-md-12">Số lượng</label>
+                    <div class="col-md-12">
+                        <input type="number" value="@Model.quantity" required placeholder="Nhập vào số lượng" class="form-control" name="quantity" />
+                    </div>
+                    <div class="valid-feedback">Valid</div>
+                    <div class="invalid-feedback">Nhập số lượng</div>
+                </div>
+                <div class="form-group">
+                    <label class="control-label col-md-12">Mô tả</label>
+                    <div class="col-md-12">
+                        <textarea required placeholder="Nhập vào mô tả" id="txtDescription" name="description" class="form-control">@Html.Raw(Model.description)</textarea>
+                    </div>
+                    <div class="valid-feedback">Valid</div>
+                    <div class="invalid-feedback">Nhập mô tả</div>
+                </div>
+                <div class="form-group">
+                    <label class="control-label col-md-12" for="image">Ảnh đại diện</label>
+                    <span class="custom-file col-md-12">
+                        <input type="file" class="custom-file-input" id="btnimg" name="file">
+                        <label class="custom-file-label" id="txtimg" for="customFile">@(Model.image == null || Model.image.Equals("") ? "Chọn ảnh" : Model.image[0] == '/' ? Model.image : "/" + Model.image)</label>
+                    </span>
+                    <input name="image" value="@(Model.image == null|| Model.image.Equals("") ?"":Model.image[0]=='/'?Model.image:"/"+Model.image)" id="txtimg_hide" type="hidden" />
+                </div>
+                <div class="form-group">
+                    <label class="control-label col-md-12">Sản phẩm mới</label>
+                    <div class="col-md-12">
+                        <div class="d-flex align-items-center">
+                            <input id="input_newproduct" class="input-ckb" type="checkbox" checked="@Model.newproduct" />
+                            <span class="ml-2" id="input_mess-status">@(Model.newproduct == true ? "Mới" : "Cũ")</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label class="control-label col-md-12">Loại nón</label>
+                    <div class="col-md-12">
+                        @Html.DropDownList("idcategory", null, htmlAttributes: new { @class = "form-control" })
+                    </div>
+                </div>                           
+                <div class="form-group">
+                    <a href="/admin/san-pham" class="btn btn-light btn-icon-split" style="margin:0 0.75rem">
+                        <span class="icon text-gray-600">
+                            <i class="fas fa-arrow-left"></i>
+                        </span>
+                        <span class="text">Trở về</span>
+                    </a>
+                    <button type="submit" style="margin:0 0.75rem" class="btn btn-success btn-icon-split">
+                        <span class="icon text-white-50">
+                            <i class="far fa-save"></i>
+                        </span>
+                        <span class="text">Lưu</span>
+                    </button>
+                </div>
+            </div>
+        }
+    </div>
+</div>

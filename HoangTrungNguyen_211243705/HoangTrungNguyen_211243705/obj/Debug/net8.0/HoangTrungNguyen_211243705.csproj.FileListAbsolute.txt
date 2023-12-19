@@ -1,0 +1,9 @@
+D:\ASP.NET MVC LapTrinhWeb\HoangTrungNguyen_211243705\HoangTrungNguyen_211243705\obj\Debug\net8.0\HoangTrungNguyen_211243705.csproj.AssemblyReference.cache
+D:\ASP.NET MVC LapTrinhWeb\HoangTrungNguyen_211243705\HoangTrungNguyen_211243705\obj\Debug\net8.0\HoangTrungNguyen_211243705.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET MVC LapTrinhWeb\HoangTrungNguyen_211243705\HoangTrungNguyen_211243705\obj\Debug\net8.0\HoangTrungNguyen_211243705.AssemblyInfoInputs.cache
+D:\ASP.NET MVC LapTrinhWeb\HoangTrungNguyen_211243705\HoangTrungNguyen_211243705\obj\Debug\net8.0\HoangTrungNguyen_211243705.AssemblyInfo.cs
+D:\ASP.NET MVC LapTrinhWeb\HoangTrungNguyen_211243705\HoangTrungNguyen_211243705\obj\Debug\net8.0\HoangTrungNguyen_211243705.csproj.CoreCompileInputs.cache
+D:\ASP.NET MVC LapTrinhWeb\HoangTrungNguyen_211243705\HoangTrungNguyen_211243705\obj\Debug\net8.0\HoangTrungNguyen_211243705.MvcApplicationPartsAssemblyInfo.cache
+D:\ASP.NET MVC LapTrinhWeb\HoangTrungNguyen_211243705\HoangTrungNguyen_211243705\obj\Debug\net8.0\HoangTrungNguyen_211243705.RazorAssemblyInfo.cache
+D:\ASP.NET MVC LapTrinhWeb\HoangTrungNguyen_211243705\HoangTrungNguyen_211243705\obj\Debug\net8.0\HoangTrungNguyen_211243705.RazorAssemblyInfo.cs
+D:\ASP.NET MVC LapTrinhWeb\HoangTrungNguyen_211243705\HoangTrungNguyen_211243705\obj\Debug\net8.0\HoangTrungNguyen_211243705.sourcelink.json
